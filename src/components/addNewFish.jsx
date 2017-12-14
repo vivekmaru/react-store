@@ -32,4 +32,8 @@ class AddNewFish extends Component {
     }
 }
 
+AddNewFish.propTypes = {
+    addFish: React.PropTypes.func.isRequired
+}
+
 export default AddNewFish;
