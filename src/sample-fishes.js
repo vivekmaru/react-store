@@ -1,4 +1,4 @@
-// This is just some sample data so you don't have to think of your own!
+// Sample data to qucikly test the app
 module.exports = {
   fish1: {
     name: 'Pacific Halibut',
