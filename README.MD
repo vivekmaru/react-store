@@ -1,0 +1,1 @@
+# React Store with data persistence and Auth using Firebse
